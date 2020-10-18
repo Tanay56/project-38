@@ -1,1 +1,2 @@
-# project-38
+# trex
+trex game created on p5js editor
